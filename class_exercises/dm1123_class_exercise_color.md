@@ -9,7 +9,7 @@
 
 ## Class Exercise: Color
 
-* **Post to wordpress, an image or illustration which contains your favorite color palette**
+* **Post to blog, an image or illustration which contains your favorite color palette**
 
 * **Discuss the image’s color context, also known as value & intensity**
   * Shade, Tint, or Saturation (Consult GD 74)
