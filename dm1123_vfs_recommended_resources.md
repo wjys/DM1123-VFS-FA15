@@ -3,10 +3,10 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
-    Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    Winnie Song • jys325@nyu.edu • Fall 2015 
+    Mondays & Fridays • 3:30-5:20PM • 2MTC MAGNET 830 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+    Office: MAGNET • Office Phone: 347 988 5185
 
 ---
 
