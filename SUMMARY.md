@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Syllabus
+* [Syllabus](dm1123_vfs_syllabus.md)
 
