@@ -3,10 +3,10 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
-    Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    Winnie Song • jys325@nyu.edu • Fall 2015 
+    Mondays & Fridays • 3:30-5:20PM • 2MTC MAGNET 830 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+    Office: MAGNET • Office Phone: 347 988 5185
 
     Prerequisite: None
    
@@ -89,6 +89,11 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
 * Have fun!
+
+
+### CODE OF CONDUCT
+
+* Discrimination of any kind towards another person will be met with dismission from the class.
 
 
 ### EVALUATION & GRADING
@@ -192,7 +197,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. dduff_vfs_fa14_logo1.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
 
 See appendices for all of the following:
 * [IDM Coursework Documentation] (projects/dm1123_idm_coursework_documentation.md)
@@ -210,5 +215,5 @@ See appendices for all of the following:
 * [Tickets to Leave] (projects/dm1123_vfs_tickets_to_leave.md)
 
 
-### [SCHEDULE OVERVIEW GRID] (dm1123_vfs_schedule_overview.md)
+### [SCHEDULE OVERVIEW GRID] (dm1123_schedule_overview.md)
 See Appendix

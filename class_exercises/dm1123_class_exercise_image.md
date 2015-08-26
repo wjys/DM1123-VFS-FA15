@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department
 
-    De Angela L. Duff • Fall 2014 • Tuesdays & Thursdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 • 3 credit hrs
+    Winnie Song • Fall 2015 • Mondays & Fridays • 3:30-5:20PM • Room: 2MTC MAGNET 830 • 3 credit hrs
 
 ---
 
