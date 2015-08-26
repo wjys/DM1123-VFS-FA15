@@ -4,7 +4,7 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Winnie Song • jys325@nyu.edu • Fall 2015 
-    Mondays & Fridays • 3:30-5:20PM • 2MTC MAGNET 830 • 3 credit hrs
+    Mondays & Fridays • 3:30-5:20 PM • 2MTC MAGNET 830 • 3 credit hrs
 
 ---
 
