@@ -12,17 +12,17 @@
 
 *All dates and assignments are subject to change at the discretion of the professor! Github and Slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
-*Github / Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
+*Github / Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack and in person during class.***
 <table>
     <tr>
         <th width="4%">wk</th>
-        <th width="48%">Tuesdays (Due on Date Listed)</th>
-        <th width="48%">Thursdays (Due on Date Listed)</th>
+        <th width="48%">Mondays (Due on Date Listed)</th>
+        <th width="48%">Fridays (Due on Date Listed)</th>
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br><strong>Course and Student Introductions</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Overview of Course</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br><strong>NO CLASS (Labour Day)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Course and Student Introductions & Overview of Course</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
