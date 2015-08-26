@@ -3,16 +3,16 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
-    Tuesdays & Thursdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    Winnie Song • jys325@nyu.edu • Fall 2015 
+    Mondays & Fridays • 3:30-5:20PM • 2MTC MAGNET 830 • 3 credit hrs
 
 ---
 
 ## SCHEDULE OVERVIEW
 
-*All dates and assignments are subject to change at the discretion of the professor! Github and basecamp are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
+*All dates and assignments are subject to change at the discretion of the professor! Github and Slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
-*Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
+*Github / Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
         <th width="4%">wk</th>
