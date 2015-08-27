@@ -14,7 +14,7 @@
 ###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA14
 
 ####Course Management Site
-* http://basecamp.com | http://polishedsolid.basecamphq.com | http://vfs.polishedsolid.com
+* http://vfs15.slack.com
 
 
 ---
