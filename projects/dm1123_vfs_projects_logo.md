@@ -33,10 +33,7 @@ Create a logo for your selected brand in Adobe Illustrator.
 * It could also be a redesign of an existing personal logo. If so, please post the original logo as well
 
 #### LOGO 2nd Draft  
-* Post to your wordpress 
-* as a gallery 
-  * New Post -> Add Media -> Create Gallery
-  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
+* Post to your blog
 * Category: logo2 
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * **At least 5 different variations of logo** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
@@ -44,12 +41,9 @@ Create a logo for your selected brand in Adobe Illustrator.
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
 
 #### LOGO Final  
-* Post to your wordpress 
-* as a gallery 
-  * New Post -> Add Media -> Create Gallery
-  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
+* Post to your blog
 * Category: logofinal
-* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
+* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your blog post
 * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well.
 * **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version vs. a tiny version (a little bigger than postage size) in the corner
 
