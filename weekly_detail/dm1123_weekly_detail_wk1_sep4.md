@@ -31,18 +31,21 @@
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
+<li>Blog</li>
+<uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
+<li>Will be used for in-class assignments and design analysis
+</uL>
 <li> Slack</li>
      <uL>
      <li>Sign up with your email</li>
-     <uL><li>**#general** - Class-wide announcements and discussions</li>
-     <li>#gallery - A place to share your work and give feedback (OPTIONAL)</li>
-     <li>#library - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Fonts etc.</i></li>
-     <li>#random - Others</li>
+     <uL><li><strong>#general</strong> - Class-wide announcements and discussions</li>
+     <li><strong>#gallery</strong> - A place to share your work and give feedback</li>
+     <li><strong>#library</strong> - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Tutorials, Fonts etc.</i></li>
+     <li><strong>#random</strong> - Whatever else</li>
      </uL>
-     <li>Do not send email to all students when you post. Only send email to me and/or yourself.</li>
-     <li>Remember you can unsubscribe yourself from basecamp email threads </li>
-     <li>Add your class website to the designated basecamp message as a comment</li>
-     <li>Add your creator show &amp; tell to calendar as a new milestone and assign yourself as who’s responsible</li>
+     <li><strong>Private Message</strong> Winnie links to assignments or upload them directly</li>
+     <li>Set your desktop/email notification preferences
+     <li>Add a link to blog to the "What I Do" box in Profile settings
      </uL>
 <li> Syllabus</li>
 <ul>
