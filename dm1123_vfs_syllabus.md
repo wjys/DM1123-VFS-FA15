@@ -11,7 +11,7 @@
     Prerequisite: None
    
    
-###Github Repository: http://github.com/IDMNYU/DM1123-VFS-FA14
+###Github Repository: https://github.com/wjys/DM1123-VFS-FA15
 
 ####Course Management Site
 * http://vfs15.slack.com
@@ -63,7 +63,7 @@ Critiques (AKA crits) are the best way to articulate your ideas to others and ge
 Rules of the Critique:
 * Be Present and Engaged
 * Give Feedback to your classmates
-* Do NOT take feedback personally
+* Do NOT take Feedback personally
 
 Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
@@ -80,10 +80,9 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Action – do your absolute best
 * Strive for continuous improvement
 * Email contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not email long conversations. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
+* Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not leave it until nothing could be done.
 * Have desire amounting to enthusiasm (to learn, to explore)
-* Have patience, persistence, and discipline 
-* Be creative
+* Have patience, persistence, and discipline
 * Pay attention to detail & craft
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
@@ -92,7 +91,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### CODE OF CONDUCT
 
-* Discrimination of any kind towards another person will be met with dismission from the class.
+* Discrimination of any kind towards another person will be met with immediate dismission from the class.
 
 
 ### EVALUATION & GRADING
@@ -102,7 +101,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
+* Contact the professor IN ADVANCE if you will not be in class (in person or by slack/email is preferred).
 * Attendance is mandatory for the midterm and final presentations.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
@@ -111,13 +110,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 15% class exercises
 * 15% homework assignments
-* 10% midterm (final logo)
+* 10% midterm (final brand)
 * 10% final interface 
-* 10% final physical application
+* 10% final project
 * 10% end of semester portfolio PDF
-* 10% end of semester dropbox folder
-* 5% IDM coursework documentation on sites.bxmc.poly.edu
-* 5% reading responses
+* 10% IDM coursework documentation on sites.bxmc.poly.edu
+* 10% reading responses
 * 2.5% logo show and tell
 * 2.5% creator show and tell
 * 2.5% midterm (final logo) self assessment and rubric
@@ -147,7 +145,7 @@ Performance and attendance of the student has been such that course requirements
 
 This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. In this syllabus and on github, I have listed several helpful resources to help you get up to speed with technology. 
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings or discussions, your laptops should not be used.
 
 
 ### READINGS
@@ -176,13 +174,12 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Sketchbook
 
 
-### REQUIRED BOOKS
+### <u>RECOMMENDED</u> BOOKS
 
-These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU Schoo of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
+These books (*) are available for purchase in the NYU bookstore, however are not necessary to purchase for the completion of the program.
 
-* Graphic Design: The New Basics by Ellen Lupton * #
+* Graphic Design: The New Basics by Ellen Lupton *
 * Type On Screen by Ellen Lupton *
-* Typographic Systems
 
 ### REQUIRED SOFTWARE
 
@@ -199,20 +196,19 @@ See Appendix
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
 
 See appendices for all of the following:
-* [IDM Coursework Documentation] (projects/dm1123_idm_coursework_documentation.md)
-* [End of Semester Deliverables] (projects/dm1123_vfs_end_of_semester_deliverables.md)
+* [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
+* [End of Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
 
 #### Projects
-* [Logo Project] (projects/dm1123_vfs_projects_logo.md)
-* [Interface Project] (projects/dm1123_vfs_projects_interface.md)
-* [Physical Application Project] (projects/dm1123_vfs_projects_pa.md)
+* [Branding Project](projects/dm1123_vfs_projects_logo.md)
+* [Interface Project](projects/dm1123_vfs_projects_interface.md)
+* [Final Project (Analysis OR Physical/Digital Application) ](projects/dm1123_vfs_projects_pa.md)
 
 #### Assignments
-* [Reading Responses] (projects/dm1123_vfs_reading_responses.md)
-* [Self Assessments and Letter to Next Cohort] (projects/dm1123_vfs_self_assessments.md)
-* [Show and Tells] (projects/dm1123_vfs_show_and_tells.md)
-* [Tickets to Leave] (projects/dm1123_vfs_tickets_to_leave.md)
+* [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* [Process Work & Feedback](projects/dm1123_vfs_self_assessments.md)
+* [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 
 
-### [SCHEDULE OVERVIEW GRID] (dm1123_schedule_overview.md)
+### [SCHEDULE OVERVIEW GRID](dm1123_schedule_overview.md)
 See Appendix
