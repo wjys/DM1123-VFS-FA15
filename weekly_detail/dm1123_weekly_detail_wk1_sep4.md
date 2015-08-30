@@ -29,7 +29,7 @@
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
 <li><a href=../dm1123_vfs_syllabus.md>Course Syllabus</a>
-<li><a href=../dm1123_vfs_syllabus.md>Course Calendar</a>
+<li><a href=../dm1123_schedule_overview.md>Course Calendar</a>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li>Blog</li>
 <uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
