@@ -109,12 +109,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 15% class exercises and tickets to leave
+* 15% class exercises
 * 15% homework assignments
 * 10% midterm (final logo)
 * 10% final interface 
 * 10% final physical application
-* 10% end of semester portfolio PDF (or book for extra credit)
+* 10% end of semester portfolio PDF
 * 10% end of semester dropbox folder
 * 5% IDM coursework documentation on sites.bxmc.poly.edu
 * 5% reading responses
