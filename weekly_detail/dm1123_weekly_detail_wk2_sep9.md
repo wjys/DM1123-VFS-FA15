@@ -37,7 +37,6 @@
   <li>Respond to selected tickets to leave
   <li>BxMC URLs Rollcall
   <li>Demo: Wordpress continued</li>
-  <li>Quiz</li>
   </ul>
   </td>
   <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
