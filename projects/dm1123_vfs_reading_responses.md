@@ -11,7 +11,7 @@
 
 ## READING RESPONSES
 
-* Post to basecamp with the category of Reading Response
+* Post to blog with the category of Reading Response
 * Include title and author as subject
 
 Answer the following questions:
