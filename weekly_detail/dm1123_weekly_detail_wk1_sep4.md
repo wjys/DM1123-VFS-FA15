@@ -28,7 +28,7 @@
 </ul></td>
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
-<li><a href=../dm1123_vfs_syllabus.md>Course Syllabus</a>
+<li><a href=../dm1123_vfs_syllabus.md>Course Calendar</a>
 <ul>
  <li>Requests / Questions</li>
 </ul>
@@ -42,17 +42,17 @@
 <uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
 <li>Will be used for in-class assignments and design analysis
 </uL>
-<li> Slack</li>
+<li> Slack (<a href="vfs15.slack.com">vfs15.slack.com</a>)</li>
      <uL>
      <li>Sign up with your email</li>
-     <uL><li><strong>#general</strong> - Class-wide announcements and discussions</li>
+     <uL><li><strong>#general</strong> - Class-wide announcements and conversation</li>
      <li><strong>#gallery</strong> - A place to share your work and give feedback</li>
      <li><strong>#library</strong> - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Tutorials, Fonts etc.</i></li>
      <li><strong>#random</strong> - Whatever else</li>
      </uL>
      <li><strong>Private Message</strong> Winnie links to assignments or upload them directly</li>
      <li>Set your desktop/email notification preferences
-     <li>Add a link to blog to the "What I Do" box in Profile settings
+     <li>Add a link to blog in the "What I Do" box in Profile settings
      </uL>
 </ul>
 
