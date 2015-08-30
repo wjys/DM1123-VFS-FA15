@@ -31,10 +31,13 @@
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
-<li> Basecamp</li>
+<li> Slack</li>
      <uL>
-     <li>Victoria &amp; anyone else - switch your first and last name on Basecamp if incorrect</li>
-     <li>FYI: When you add to the calendar or write board everybody in the class can see it.</li>
+     <li>Sign up with your email</li>
+     <uL><li>#general - Class-wide announcements and discussions</li>
+     <li>#gallery - A place to share your work and give feedback (OPTIONAL)
+     <li>#library - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Fonts etc.</i>
+     <li>#random - Others
      <li>Do not send email to all students when you post. Only send email to me and/or yourself.</li>
      <li>Remember you can unsubscribe yourself from basecamp email threads </li>
      <li>Add your class website to the designated basecamp message as a comment</li>
