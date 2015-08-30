@@ -9,7 +9,7 @@
 
 ## Class Exercise: Images
 
-* **Post to wordpress, the following**
+* **Post to blog, the following**
 
 * an image that illustrates the concept of **symmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
 * an image that illustrates the concept of **asymmetry** (reference, Graphic Design: The New Basics, Rhythm & Balance)
