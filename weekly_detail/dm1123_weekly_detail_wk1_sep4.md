@@ -86,7 +86,7 @@
   <li>[Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
-<li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+<li>Screening: Black Panther</li>
 </ul></td>
 </tr>
 <tr>
