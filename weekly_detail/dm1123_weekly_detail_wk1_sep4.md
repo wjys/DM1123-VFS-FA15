@@ -34,10 +34,11 @@
 <li> Slack</li>
      <uL>
      <li>Sign up with your email</li>
-     <uL><li>#general - Class-wide announcements and discussions</li>
-     <li>#gallery - A place to share your work and give feedback (OPTIONAL)
-     <li>#library - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Fonts etc.</i>
-     <li>#random - Others
+     <uL><li>**#general** - Class-wide announcements and discussions</li>
+     <li>#gallery - A place to share your work and give feedback (OPTIONAL)</li>
+     <li>#library - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Fonts etc.</i></li>
+     <li>#random - Others</li>
+     </uL>
      <li>Do not send email to all students when you post. Only send email to me and/or yourself.</li>
      <li>Remember you can unsubscribe yourself from basecamp email threads </li>
      <li>Add your class website to the designated basecamp message as a comment</li>
