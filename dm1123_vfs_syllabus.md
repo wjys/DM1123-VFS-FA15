@@ -20,7 +20,7 @@
 ---
 
 
-## Welcome to Visual Foundation Studio!
+## Visual Foundation Studio
 
 This course allows students to harness the power of visual language in order to convey messages and meaning. The elements of visual foundation that will be covered include components (color, texture, image and typography), composition, and concept. Although non-digital mediums will be addressed, the understanding and use of industry-standard software is also a primary goal.
 
@@ -63,7 +63,7 @@ Critiques (AKA crits) are the best way to articulate your ideas to others and ge
 Rules of the Critique:
 * Be Present and Engaged
 * Give Feedback to your classmates
-* Do NOT take feedback personally.
+* Do NOT take feedback personally
 
 Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
