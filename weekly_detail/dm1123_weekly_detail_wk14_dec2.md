@@ -19,7 +19,7 @@
 <!-- dates -->
 <tr>
   <td valign="top">14</td>
-  <td valign="top"><strong>Nov. 31</strong></td>
+  <td valign="top"><strong>Nov. 30</strong></td>
   <td valign="top"><strong>Dec 04</strong></td>
 </tr>
 <!-- class -->
