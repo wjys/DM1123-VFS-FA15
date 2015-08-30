@@ -154,9 +154,9 @@ Laptop computers and other mobile devices are invaluable tools for artists, desi
 There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand visual foundation principles. Because this course is an exploration of theory AND practice, I expect full attention to both types of reading.
 
 
-### ACADEMIC HONESTY
+### ACADEMIC INTEGRITY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D.  Please use the MLA style for citing and documenting source material.   
 
 
 ### ACADEMIC ACCOMMODATIONS
