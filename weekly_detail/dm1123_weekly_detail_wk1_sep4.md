@@ -13,13 +13,13 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Tuesdays (due on date listed)</td>
-<td>Thursdays (due on date listed)</td>
+<td>Mondays (due on date listed)</td>
+<td>Fridays (due on date listed)</td>
 </tr>
 <tr>
   <td valign="top">1</td>
-  <td valign="top" width="48%"><strong>Sep 2</strong></td>
-  <td valign="top" width="48%"><strong>Sep 4</strong></td>
+  <td valign="top" width="48%"><strong>Aug 31</strong></td>
+  <td valign="top" width="48%"><strong>Sep 04</strong></td>
 </tr>
 <tr>
 <td valign="top">class</td>
