@@ -78,7 +78,6 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
 * Strive for continuous improvement
-* Email contact about logistics (when, where, how many?) only
 * Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not leave it until nothing could be done.
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline
