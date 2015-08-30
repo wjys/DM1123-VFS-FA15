@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>Aug 31<br><strong><i>NO CLASS: Labour Day</i></strong></td>
+        <td>Aug 31<br><strong><i>NO CLASS</i></strong></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Course and Student Introductions & Overview of Course</strong></a></td>
     </tr>
     <tr>
