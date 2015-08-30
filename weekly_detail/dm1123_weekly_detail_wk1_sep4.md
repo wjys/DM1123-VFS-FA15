@@ -29,7 +29,14 @@
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
 <li><a href=../dm1123_vfs_syllabus.md>Course Syllabus</a>
-<li><a href=../dm1123_schedule_overview.md>Course Calendar</a>
+<ul>
+ <li>Requests / Questions</li>
+</ul>
+<li><a href=../dm1123_schedule_overview.md>Course Calendar</a></li>
+<ul>
+ <li>Reading the weekly schedule. NOTE: Due on date listed</li>
+ <li>Final Draft will be on github by Mon, Sep 7.</li>
+</ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li>Blog</li>
 <uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
@@ -47,12 +54,6 @@
      <li>Set your desktop/email notification preferences
      <li>Add a link to blog to the "What I Do" box in Profile settings
      </uL>
-<li> Syllabus</li>
-<ul>
- <li>Any requests, questions, errors?</li>
- <li>Reading the weekly schedule. NOTE: Due on date listed</li>
- <li>Final Draft will be on github by Tue, Sep 9.</li>
-</ul>
 </ul>
 
 <strong>Discuss Homework</strong><br><br>
