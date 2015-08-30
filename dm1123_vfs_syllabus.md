@@ -72,7 +72,6 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
-* Study outside of class (ideally with classmate(s)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
