@@ -56,8 +56,6 @@
      </uL>
 </ul>
 
-<strong>Discuss Homework</strong><br><br>
-
 <strong>Why is this class important?</strong>
 <ul>
 <li>Visual interfaces are all around us. </li>
