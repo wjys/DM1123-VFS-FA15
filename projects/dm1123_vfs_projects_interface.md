@@ -13,7 +13,7 @@
 Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
 #### INTERFACE Wireframes    
-Post on your class website in grayscale (includes black and white) with interface-wireframes category. 
+Post on your blog in grayscale (includes black and white) with interface-wireframes category. 
 * Create a wireframe of your interface in letter dimensions (8 1/2 x 11). 
   * If you are doing a website, you also need to include a sitemap in grayscale (includes black and white) with interface-wireframes category. 
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
