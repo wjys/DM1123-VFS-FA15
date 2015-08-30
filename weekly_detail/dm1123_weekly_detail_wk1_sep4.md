@@ -25,11 +25,11 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li><strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm1123_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
-<li>Group Syllabus Review</li>
 </ul></td>
 <td valign="top"><strong>Overview of Course</strong>
 <ul>
+<li><a href=../dm1123_vfs_syllabus.md>Course Syllabus</a>
+<li><a href=../dm1123_vfs_syllabus.md>Course Calendar</a>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li>Blog</li>
 <uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
@@ -92,7 +92,7 @@
 </tr>
 <tr>
   <td>read</td>
-  <td></td>
+  <td><li><a href="../dm1123_vfs_syllabus.md"><strong>Course Syllabus</strong></a></li></td>
   <td>Post a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for the PDF, Learning (Your First Job) by Leamnson, which is located on basecamp under the Files tab.</td> 
 </tr>
 <tr>
