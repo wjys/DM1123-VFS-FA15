@@ -51,7 +51,7 @@ This course will reinforce or introduce students to:
 By the end of the course, students will be able to
 * understand and implement the iterative process
 * learn how to proactively learn also known as self-regulated learning
-  * In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
+   * In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
 
 
 ### COURSE STRUCTURE
