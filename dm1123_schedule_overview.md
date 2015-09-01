@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 7<br><strong>Components: Color</strong></a></td>
+        <td>Sep 7<br><strong><i>NO CLASS: Labor Day</i></strong></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>Components: Type</strong></a></td>
     </tr>
     <tr>
