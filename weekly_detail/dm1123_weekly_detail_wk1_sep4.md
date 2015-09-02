@@ -85,7 +85,11 @@
   <td>read</td>
   <td></td>
   <td>
-  <li>"Non-Designers Design Book" by Robin Williams [FIND UNDER "READINGS" IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</li></td> 
+  <li>"Non-Designers Design Book" by Robin Williams </li>
+  <li><strong>Graphic Design: The New Basics</strong>
+  <ul>
+  <li>Color</li>
+[FIND UNDER "READINGS" IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</td> 
 </tr>
 <tr>
   <td>do</td>
