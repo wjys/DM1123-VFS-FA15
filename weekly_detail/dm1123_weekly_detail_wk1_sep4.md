@@ -85,16 +85,15 @@
   <td>read</td>
   <td></td>
   <td><li><a href="../dm1123_vfs_syllabus.md"><strong>Course Syllabus</strong></a></li>
-  <li>READ and POST a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for "Non-Designers Design Book" by Robin Williams [FIND UNDER READINGS IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</li></td> 
+  <li>READ and POST a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for "Non-Designers Design Book" by Robin Williams [FIND UNDER "READINGS" IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</li></td> 
 </tr>
 <tr>
   <td>do</td>
   <td></td> 
   <td>
-  <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
   <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
-  </ul></td>
+  </td>
 </tr>
 </table>
 
