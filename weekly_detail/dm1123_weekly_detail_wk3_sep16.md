@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Illustrator Demo</strong>
+  <td valign="top" width="48%"><strong>TBD</strong>
   <ul>  
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
@@ -39,12 +39,12 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: Type &amp; Color</strong>
     <ul>
-    <li>Github vs. Basecamp</li>
-    <li>Respond to selected tickets to leave</li>
+    <li><i>LECTURE: TYPE</i>
+    <li>Respond to selected Reading Responses</li>
     <li>What Makes a Font Bad?</li>
-    <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
+    <li>Class Exercise: Review, Type, and Image HW in Teams</li>
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Adobe Photoshop (if time)</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
@@ -71,14 +71,14 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
+  <strong><a href="/signups.md">SIGN UP FOR SHOW & TELL</a></strong><br><br>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
-  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_image.md" target="_blank">class exercise: Image</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_color.md" target="_blank">class exercise: Color</a></strong></p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
