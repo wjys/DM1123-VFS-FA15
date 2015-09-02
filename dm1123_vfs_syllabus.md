@@ -77,13 +77,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
 * Strive for continuous improvement
-* Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not leave it until nothing could be done.
+* Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not wait until it's too late.
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline
 * Pay attention to detail & craft
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
-* Have fun!
 
 
 ### CODE OF CONDUCT
@@ -178,6 +177,9 @@ These books (*) are available for purchase in the NYU bookstore, however are not
 * Graphic Design: The New Basics by Ellen Lupton *
 * Type On Screen by Ellen Lupton *
 
+### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
+See Appendix
+
 ### REQUIRED SOFTWARE
 
 * Adobe Photoshop
@@ -185,10 +187,10 @@ These books (*) are available for purchase in the NYU bookstore, however are not
 * Adobe Indesign
 * Adobe Acrobat
 
-### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
-See Appendix
+http://www.adobe.com/creativecloud/buy/students.html
+http://www.adobe.com/downloads.html
 
-### PROJECTS & ASSIGNMENTS
+## PROJECTS & ASSIGNMENTS
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
 
