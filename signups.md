@@ -39,10 +39,12 @@ Sign up here: GOOGLE FORM
     <tr>
         <td>3</td>
         <td valign="top">
-        * ___________ & ___________
-        * ___________ & ___________
+        //
         </td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep23.md">Sep 21</a> : LOGO<BR>
+1. ___________ & ___________<BR>
+2. ___________ & ___________<BR>
+3. ___________ & ___________</td>
     </tr>
     <tr>
         <td>4</td>
