@@ -26,27 +26,16 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>TBD</strong>
-  <ul>  
-  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Andy Warhol: Elanur and Alexis</li>
-      <li>Barbara Krueger: Jenny and Indira</li>
-      <li>Aleksander Rodchenko: Naomi and Avi</li>
-    </ul>
-  <li>Naomi Pan: <a href="http://wordmark.it" target="_blank">http://wordmark.it</a></li>
-  <li>Demo Illustrator continued</li>
-  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
-  </ul>
-
+  <ul><li> Guest Speaker: Basics of Adobe Photoshop & Illustrator</ul>
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: Type &amp; Color</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: Color & Type</strong>
     <ul>
     <li><i>LECTURE: COLOR & TYPE</i>
     <li>Respond to selected Reading Responses</li>
     <li>What Makes a Font Bad?</li>
     <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
     <li>Demo Illustrator continued (if time)</li>
-    <li>Demo Adobe Photoshop (if time)</li>
+    <li>Demo Photoshop (if time)</li>
     </ul>
   </td>
 </tr>
