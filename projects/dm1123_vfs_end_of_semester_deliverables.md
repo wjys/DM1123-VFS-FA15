@@ -109,13 +109,4 @@ Of The Course
 
 * What assignment(s) did you like the most and why?
 * What assignment(s) did you like the least and why?
-* What change(s) would you make to this class and why? 
-* Feedback re: required books
-  * Graphic Design: The New Basics
-  * Type On Screen
-
-#### Letter to Next Cohort
-
-*Email your letter as a pdf to jys325@nyu.edu. Do NOT put letters on basecamp, a public forum.*
-
-Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.
+* What change(s) would you make to this class and why?
