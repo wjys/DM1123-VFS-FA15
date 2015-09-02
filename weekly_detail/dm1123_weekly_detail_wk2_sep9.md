@@ -44,7 +44,7 @@
     <LI>TEXT
     <LI>GRID
     </UL>
-    <I>[TEXT WILL BE POSTED ON "READINGS" ON THE <a href="vfs15.slack.com">SLACK</a>]</I></td>
+    <I>[FIND UNDER "READINGS" ON <a href="vfs15.slack.com">SLACK</a>]</I></td>
 </tr>
 
 <!-- do -->
@@ -57,7 +57,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul>
-  <p><strong>Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">class exercise: Typefaces</a><br>Post on <a href="../projects/dm1123_vfs_blog.md">your blog</a></strong></p></td>
+  <p><strong>Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">class exercise: Typefaces</a>, and post on <a href="../projects/dm1123_vfs_blog.md">your blog</a></strong></p></td>
 
 </tr>
 </table>
