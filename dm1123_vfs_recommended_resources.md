@@ -122,7 +122,7 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **What Makes a Font Bad?**
   * Communication Arts: Know If a Font Sucks - http://www.commarts.com/columns/know-font-sucks
   * digitalrelativity.com: WHAT MAKES A BAD TYPEFACE, AND HOW TO FIX IT - http://digitalrelativity.com/fixing-bad-typeface 
-  * #2 in this article, Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk -nhttp://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk
+  * Good Font, Bad Font: 5 Ways To Tell The Gems From The Junk -nhttp://speckyboy.com/2013/11/14/good-font-bad-font-5-ways-tell-gems-junk
   * Examples of Bad Font Use: Avoid These Common Mistakes - http://www.brighthub.com/multimedia/publishing/articles/125993.aspx
   * 10 Iconic Fonts and Why You Should Never Use Them - http://www.webdesignerdepot.com/2011/02/10-iconic-fonts-and-why-you-should-never-use-them
   * 23 Really Bad Font - Choiceshttp://bonfx.com/23-really-bad-font-choices
@@ -155,3 +155,24 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * The following are not recommended because of cost, but I wanted you to know about them:
     * [proto.io] (http://proto.io)
     * [Keynotopia] (http://keynotopia.com) 
+
+###ETC. REFERENCE SITES
+* BEHANCE NETWORK Portal for hosting and sharing online portfolios https://www.behance.net
+* TUMBLR Sharing site for largely graphic image content
+    *  VISUAL GRAPHIC http://visualgraphc.tumblr.com
+    *  SEMIBOLD http://curv.tumblr.com
+    *  TYPE THAT WE LIKE http://www.typethatilike.co.uk
+* MOTIONOGRAPHER 
+* DESIGN OBSERVER Writings on design and culture http://www.designobserver.com/
+* MANY STUFF Daily blog about cool graphic related materials http://www.manystuff.org/
+* MONOSCOPE Another blog about cool graphic related materials http://www.monoscope.com/
+* IMPRINT Excellent on-line GD publication, link takes you to Steven Heller’s blog http://imprint.printmag.com/daily-heller/
+* FFFFOUND Cool found stuff sharing site http://ffffound.com/
+* DEZEEN Online generalist design magazine http://www.dezeen.com/
+* TYPERADIO Interviews with leading typographers, great site http://www.typeradio.org/
+* ENCYCLOPEDIA PICTURA Just take a look around http://www.encyclopediapictura.com/
+* MAGCULTURE Blog about magazines http://magculture.com/blog/?cat=24
+* I LOVE TYPOGRAPHY Don’t we all? http://ilovetypography.com/
+THE ART OF COMPLEX PROBLEM SOLVING Excellent roll-over diagram that breaks down the problem solving process http://www.idiagram.com/CP/cpprocess.html
+* UBU UbuWeb was initially a repository for visual, concrete and, later, sound poetry. it now embraces all forms of the avant-garde. Its parameters continue to expand in all directions. It is huge and amazing. Great place to get lost. http://ubu.com/
+
