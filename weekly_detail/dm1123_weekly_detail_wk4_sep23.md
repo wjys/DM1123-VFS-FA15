@@ -25,11 +25,9 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
+  <td valign="top" width="48%"><strong>Components: Image</strong>
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
-  <li>Respond to selected tickets to leave</li>
-
   <li>Discuss homework for next class</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
@@ -84,7 +82,6 @@
     
     
     <li>Screening: Helvetica Documentary</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
 </tr>
