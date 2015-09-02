@@ -196,6 +196,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 See appendices for all of the following:
 * [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
 * [End of Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
+* [Class Blog](projects/dm1123_vfs_blog.md)
 
 #### Projects
 * [Branding Project](projects/dm1123_vfs_projects_logo.md)
@@ -204,7 +205,6 @@ See appendices for all of the following:
 
 #### Assignments
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
-* [Blog]()
 * [Process Work & Feedback](projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 
