@@ -88,7 +88,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ### CODE OF CONDUCT
 
-* Discrimination of any kind towards another person will be met with immediate dismission from the class.
+* Discrimination of any kind towards another person or group will be met with immediate dismission from the class.
 
 
 ### EVALUATION & GRADING
@@ -203,6 +203,7 @@ See appendices for all of the following:
 
 #### Assignments
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* [Blog]()
 * [Process Work & Feedback](projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 
