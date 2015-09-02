@@ -209,7 +209,8 @@ See appendices for all of the following:
 #### Assignments
 ######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
-* [Process Work & Feedback](projects/dm1123_vfs_self_assessments.md)
+* Class Exercises
+* Process Work & Feedback
 * [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 
 
