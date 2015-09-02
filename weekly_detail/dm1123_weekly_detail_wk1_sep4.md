@@ -13,8 +13,8 @@
 <table>
 <tr>
 <td>wk</td>
-<td>Mondays (due on date listed)</td>
-<td>Fridays (due on date listed)</td>
+<td>Mondays</td>
+<td>Fridays</td>
 </tr>
 <tr>
   <td valign="top">1</td>
