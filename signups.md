@@ -57,16 +57,20 @@ Sign up here: GOOGLE FORM
 6. ___________ & ___________<BR>
 7. ___________ & ___________<BR>
 8. ___________ & ___________<BR></td>
-        <td>Oct 02<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>LOGO 1st Draft (Group A)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Oct 02</a>: DESIGNER<br><BR>
+1. ___________ & ___________<BR>
+PRESENTING: ___________</td>
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 05<br><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md"><strong>LOGO 1st Draft (Group B)</strong></a></td>
-        <td>Oct 09<br><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 05</a>: DESIGNER<br><BR>
+2. ___________ & ___________<BR>
+PRESENTING: ___________</td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09</a><br><strong><i></i></td>
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 12<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
+        <td><STRONG><u>TUESDAY</STRONG> Oct 13<br><strong><i>(Make-up date for MONDAY: NYU Fall Recess)</i></strong></td>
         <td>Oct 16<br><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><strong>LOGO 2nd Draft (Groups A)</strong></a></td>
     </tr>
     <tr>
