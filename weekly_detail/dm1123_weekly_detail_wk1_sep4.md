@@ -88,15 +88,16 @@
   <li>"Non-Designers Design Book" by Robin Williams </li>
   <li><strong>Graphic Design: The New Basics</strong>
   <ul>
-  <li>Color</li>
+  <li>Color</li></ul></ul>
 [FIND UNDER "READINGS" IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</td> 
 </tr>
 <tr>
   <td>do</td>
   <td></td> 
   <td>
+  <li>Set up a Blog</li>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
+  <li>DO <a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a></li>
   <li> POST a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">Reading Response</a> for "Non-Designers Design Book"
   </td>
 </tr>
