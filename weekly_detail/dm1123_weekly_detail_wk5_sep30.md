@@ -28,7 +28,6 @@
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tells</a></strong>
   <ul>
    <li>Discuss next class homework</li>
-   <li>Respond to selected tickets to leave</li>
   </ul>
 
   </td>
