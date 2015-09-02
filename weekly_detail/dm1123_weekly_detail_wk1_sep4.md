@@ -40,7 +40,7 @@
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li>Blog</li>
 <uL><li>Wordpress / Blogger / Tumblr / ETC. </li>
-<li>Will be used for in-class assignments and design analysis
+<li>Will be used for in-class assignments and posting in-progress work
 </uL>
 <li> Slack (<a href="vfs15.slack.com">vfs15.slack.com</a>)</li>
      <uL>
@@ -56,23 +56,14 @@
      </uL>
 </ul>
 
-<strong>Why is this class important?</strong>
 <ul>
-<li>Visual interfaces are all around us. </li>
-<li>Visual communication does make a difference and it communicates.</li>
-<li>It is way more than about making something "look pretty."</li>
-<li>It's about clarity, meaning, and emotion.</li>
-<li>Discuss course &amp; learning objectives in syllabus</li>
+<li><strong>Why Visual Design? - Presentation</strong></li>
+<li><strong>Discuss Reading Responses</strong></li>
+<li><strong>Show &amp; Tell</strong></li>
+<ul>
+<li>Logos</li>
+<li>Designers</li>
 </ul>
-
-<strong>Discuss Reading Responses</strong>
-<ul>
-<li>Learning (Your First Job) by Leamnson</li>
-</ul>
-
-<strong>Show &amp; Tell</strong>
-<ul>
-<li>Nicholas Felton - Collin &amp; Max</li>
 </ul>
 
 <strong>Demos</strong>
