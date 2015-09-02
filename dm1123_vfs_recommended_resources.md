@@ -167,17 +167,17 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     *  VISUAL GRAPHIC http://visualgraphc.tumblr.com
     *  SEMIBOLD http://curv.tumblr.com
     *  TYPE THAT WE LIKE http://www.typethatilike.co.uk
-* MOTIONOGRAPHER 
+* VIMEO Portal for animations & films
+* MOTIONOGRAPHER Motion graphics online publication http://motionographer.com
 * DESIGN OBSERVER Writings on design and culture http://www.designobserver.com/
 * MANY STUFF Daily blog about cool graphic related materials http://www.manystuff.org/
 * MONOSCOPE Another blog about cool graphic related materials http://www.monoscope.com/
 * IMPRINT Excellent on-line GD publication, link takes you to Steven Heller’s blog http://imprint.printmag.com/daily-heller/
-* FFFFOUND Cool found stuff sharing site http://ffffound.com/
+* FFFFOUND Image bookmark sharing site http://ffffound.com/
 * DEZEEN Online generalist design magazine http://www.dezeen.com/
-* TYPERADIO Interviews with leading typographers, great site http://www.typeradio.org/
-* ENCYCLOPEDIA PICTURA Just take a look around http://www.encyclopediapictura.com/
+* TYPERADIO Interviews with leading typographers http://www.typeradio.org/
+* ENCYCLOPEDIA PICTURA http://www.encyclopediapictura.com/
 * MAGCULTURE Blog about magazines http://magculture.com/blog/?cat=24
-* I LOVE TYPOGRAPHY Don’t we all? http://ilovetypography.com/
-THE ART OF COMPLEX PROBLEM SOLVING Excellent roll-over diagram that breaks down the problem solving process http://www.idiagram.com/CP/cpprocess.html
-* UBU UbuWeb was initially a repository for visual, concrete and, later, sound poetry. it now embraces all forms of the avant-garde. Its parameters continue to expand in all directions. It is huge and amazing. Great place to get lost. http://ubu.com/
+* I LOVE TYPOGRAPHY  http://ilovetypography.com/
+* THE ART OF COMPLEX PROBLEM SOLVING Excellent roll-over diagram that breaks down the problem solving process http://www.idiagram.com/CP/cpprocess.html
 
