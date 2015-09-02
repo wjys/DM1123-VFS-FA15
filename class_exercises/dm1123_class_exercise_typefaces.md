@@ -9,7 +9,7 @@
 
 ## Class Exercise: Typefaces
 
-* **Post to wordpress, your favorite typeface used within an image**
+* **Post to blog, your favorite typeface used within an image**
 
 * **List the typeface’s family (Consult http://thinkingwithtype.com):**
   * serif
