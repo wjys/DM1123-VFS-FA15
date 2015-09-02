@@ -57,6 +57,7 @@
 </ul>
 
 <ul>
+<li><strong>Class Introduction</strong></li>
 <li><strong>Why Visual Design? - Presentation</strong></li>
 <li><strong>Discuss Reading Responses</strong></li>
 <li><strong>Show &amp; Tell</strong></li>
@@ -82,8 +83,9 @@
 </tr>
 <tr>
   <td>read</td>
-  <td><li><a href="../dm1123_vfs_syllabus.md"><strong>Course Syllabus</strong></a></li></td>
-  <td>Post a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for the PDF, Learning (Your First Job) by Leamnson, which is located on basecamp under the Files tab.</td> 
+  <td></td>
+  <td><li><a href="../dm1123_vfs_syllabus.md"><strong>Course Syllabus</strong></a></li>
+  <li>READ and POST a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for "Non-Designers Design Book" by Robin Williams [FIND UNDER READINGS IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</li></td> 
 </tr>
 <tr>
   <td>do</td>
