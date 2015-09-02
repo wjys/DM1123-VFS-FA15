@@ -15,6 +15,11 @@
 
 ### RECOMMENDED MAGAZINES
 * Eye Magazine
+* I.D. Magazine
+* Adbusters
+* Emigre
+* Wired
+* Blind Spot
 * HOW Magazine
 * Communication Arts
 * idN Magazine (comes with a DVD)
