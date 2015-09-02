@@ -10,11 +10,11 @@
 
 
 ## PROJECT: ANALYSIS
-Your final brand in color in a physical, applied state (i.e. poster, packaging, signage, apparel, business cards, stickers, etc.). <br><br>
-<strong>OR</strong><br><br>
-Your final interface wireframe in a digital or physical applied state (i.e. website, game, schematic diagram, design document, etc.)
+Write an in-depth analysis of a graphical interface of your choice. Choose an element from below:
 
-Your choice for your project’s applied state is up to you. You decide. 
+* 
+
+You must use the ideas and terminology discussed over the course of the class. Refer back to the readings.
 
 #### PA 1st Draft    
 Post on your class blog in grayscale (includes black and white) with physapp1 category or tag. 
@@ -48,7 +48,7 @@ Suggested Service Bureaus for Posters
 
 Hand in your final digital application as a link, file, or a document.
 
-DO NOT BE LATE WITH YOUR FINAL PHYSICAL APPLICATION
+DO NOT BE LATE WITH YOUR FINAL ANALYSIS
 
 
 
