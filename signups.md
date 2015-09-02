@@ -27,33 +27,36 @@ Sign up here: GOOGLE FORM
         <th width="48%">Fridays (Due on Date Listed)</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>//</td>
-        <td>//</td>
+    <td>1</td>
+        <td>Aug 31<br><strong><i>NO CLASS</i></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>//</td>
-        <td>//</td>
+        <td>Sep 7<br><strong><i>NO CLASS: Labor Day</i></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>//</strong></a>
+        </td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">
-        //
-        </td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep23.md">Sep 21</a> : LOGO<BR>
-1. ___________ & ___________<BR>
-2. ___________ & ___________<BR>
-3. ___________ & ___________</td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 14<br><strong>//</stron></a></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 21<br><strong>Screening: Type</strong></a><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 25<br><strong>Components: Composition &amp; Concept</strong></a></td>
-    </tr>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 21:<br><strong>//</strong></a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 25<br><strong>//</strong></a></tr>
     <tr>
         <td>5</td>
-        <td>Sep 28<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>LOGO Show & Tells</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>Sep 28</strong></a>: LOGO<BR>
+1. ___________ & ___________<BR>
+2. ___________ & ___________<BR>
+3. ___________ & ___________<BR>
+4. ___________ & ___________<BR>
+5. ___________ & ___________<BR>
+6. ___________ & ___________<BR>
+7. ___________ & ___________<BR>
+8. ___________ & ___________<BR></td>
         <td>Oct 02<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>LOGO 1st Draft (Group A)</strong></a></td>
     </tr>
     <tr>
