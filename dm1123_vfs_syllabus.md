@@ -114,8 +114,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% reading responses
 * 2.5% logo show and tell
 * 2.5% creator show and tell
-* 2.5% midterm (final logo) self assessment and rubric
-* 2.5% letter to next cohort, final self assessment and rubric
+* 5% attendance and participation
 
 
 ##### Qualitative Grading Overview
