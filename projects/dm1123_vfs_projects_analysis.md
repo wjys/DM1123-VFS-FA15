@@ -12,11 +12,19 @@
 ## PROJECT: ANALYSIS
 Write an in-depth analysis of a graphical interface of your choice. Choose an element from below:
 
-* 
+* Brochure
+* Manual
+* Magazine Layout
+* Directory
+* Title Page/Sequence
+* Online Storefront (ie. Etsy, Amazon, Steam, App Store)
+* In-Gameplay UI
+
+You will describe the apparent visual choices made by the designer, including their technical use of Type, Layout, and Color to show both Quantitative and Qualitative information.
 
 You must use the ideas and terminology discussed over the course of the class. Refer back to the readings.
 
-#### PA 1st Draft    
+#### Analysis 1st Pass    
 Post on your class blog in grayscale (includes black and white) with physapp1 category or tag. 
 * Select 1 applied state for your one and true final logo
 * For that selected applied state only, do at least 3 different directions 
@@ -25,13 +33,13 @@ Post on your class blog in grayscale (includes black and white) with physapp1 ca
 * Select only 1 applied state (yes, this is repeated.)
 * The versions should NOT be for different applied states such as 1 for an album cover, tattoos, and yet another for a T-Shirt design.
 
-#### PA 2nd Draft    
+#### Analysis 2nd Draft    
 Post on your class blog in grayscale (includes black and white) or color with physapp2 category or tag. 
 * Choose the version selected in the previous class crit.
 * Do at least 3 different variations of the selected PA. 
 * Each variation in letter dimensions (8 1/2 x 11)
 
-#### PA Final    
+#### Analysis Final    
 Get your final physical application printed at a service bureau of your choice.
 
 Suggested Service Bureaus for Physical Application
