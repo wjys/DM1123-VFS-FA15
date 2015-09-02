@@ -10,7 +10,7 @@
 
 
 ## PROJECT: INTERFACE
-In information technology, the user interface (UI) is everything designed into an information device or material with which a person may interact. Determine what kind of interface you'd like to create. This can be the design of **a website, an application, a manual, a game** etc.
+In information technology, the user interface (UI) is everything designed into an information device or material with which a person may interact. Determine what kind of interface you'd like to create. This can be the design of **a website, an application, a manual, a publication layout, a game** etc.
 
 Using a combination of Illustrator / Photoshop / Any other development tools, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
@@ -20,6 +20,8 @@ An interface has varied applications:
 **Non-Digital**
 * Menu
 * Brochure
+* Poster
+* Magazine Layout
 * Manual
 * Directory
 * Physical Portfolio
