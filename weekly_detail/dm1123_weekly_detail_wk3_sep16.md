@@ -52,7 +52,10 @@
   <li>Figure/Ground</li>
   <li>Framing</li>
   </ul>
-  </ul></td>
+  <strong>Supplementary:
+  <li><a href=http://practicaltypography.com>Practical Typography</li></a></strong>
+  </ul>
+  </td>
 </tr>
 
 <!-- do -->
