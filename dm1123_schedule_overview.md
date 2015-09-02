@@ -68,7 +68,8 @@
     </tr>
     <tr>
         <td>10</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">Nov 02<br><i>Last Day to Withdraw</i><br><strong>PHYSICAL APP 2nd Draft (Group A)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">Nov 02<br><strong>PHYSICAL APP 2nd Draft (Group A)</strong></a><br>
+        <i>(Tuesday, November 3 is the deadline to withdraw)</i></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">Nov 06<br><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
     </tr>
     <tr>
