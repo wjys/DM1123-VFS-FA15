@@ -39,6 +39,8 @@
 * Josef Muller-Brockman (composition)
 * Aleksander Rodchenko (composition & photography)
 * Andy Warhol (image)
+* Jean-Michel Basquiat (image)
+* Keith Haring (image)
 * Tibor Kalman (image)
 * David Carson (type & image)
 * Barbara Krueger (type & image)
