@@ -14,11 +14,11 @@
 
 **LOGO - Show & Tell**<br>
 Sign up here: GOOGLE FORM
-
-<br>
+<br><Br>
 **DESIGNER - Show & Tell**<br>
 Sign up here: GOOGLE FORM
-
+***
+####SHOW & TELL SCHEDULE:
 
 <table>
     <tr>
@@ -28,20 +28,20 @@ Sign up here: GOOGLE FORM
     </tr>
     <tr>
         <td>1</td>
-        <td>Aug 31<br><strong><i>NO CLASS</i></strong></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Course and Student Introductions & Overview of Course</strong></a></td>
+        <td>//</td>
+        <td>//</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sep 7<br><strong><i>NO CLASS: Labor Day</i></strong></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>TBD</strong></a>
-        
-##Components: Type 
-        </td>
+        <td>//</td>
+        <td>//</td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 14<br><strong>Guest Speaker: Erica Gorochow</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td valign="top">
+        * ___________ & ___________
+        * ___________ & ___________
+        </td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
     </tr>
     <tr>
