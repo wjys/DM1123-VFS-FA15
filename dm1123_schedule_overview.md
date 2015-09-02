@@ -27,17 +27,18 @@
     <tr>
         <td>2</td>
         <td>Sep 7<br><strong><i>NO CLASS: Labor Day</i></strong></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>TBD</strong></a>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>TBD<br>
+        Components: COLOR</strong></a>
         </td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 14<br><strong>Guest Speaker: Erica Gorochow</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 14<br><strong>TBD: Guest Speaker</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>Components: TYPE</strong></a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 21<br><strong>Screening: Type</strong></a><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 21<br><strong>Components: IMAGE</strong></a><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2015 classes and not receive a grade of "W"</i></strong></td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 25<br><strong>Components: Composition &amp; Concept</strong></a></td>
     </tr>
     <tr>
