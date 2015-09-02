@@ -9,7 +9,7 @@
 
 ## Class Exercise: Brands
 
-* Post to wordpress
+* Post to blog
 
 * List your favorite brand and discuss why in terms of its message and/or visual form
 
