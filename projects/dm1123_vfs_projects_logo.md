@@ -9,17 +9,15 @@
 ---
 
 
-## PROJECT: LOGO
-Create a logo for your selected brand in Adobe Illustrator.
+## PROJECT: BRANDING
+Create a logo for your selected brand.
 * Select a product or identity that is personal to you in some way.
 * It could be yourself, a project you're working on, a business venture, a social cause etc.
 * It CANNOT be an existing product or identity that already has an established brand.
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo and an interface.
 
 ####LOGO 1st Draft  
-* Post to your blog 
-* as a gallery 
-  * New Post -> Add Media -> Create Gallery
+* Post to your blog
 * Category: logo1
 * Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your blog post
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
