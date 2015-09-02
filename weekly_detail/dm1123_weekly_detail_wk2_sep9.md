@@ -28,17 +28,7 @@
   <td valign="top" width="48%">
   <strong>NO CLASS: LABOR DAY</strong>
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
-    <ul>
-    <li>VFS Knowledge Survey</li>
-    <li>Review Quiz</li>
-    <li>Review reading (Type vs. Typeface vs. Font)</li>
-    <li>Review class exercise: Color</li>
-    <li><a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">Review class exercise: Typefaces</a></li>
-    <li>Demo: Adobe Illustrator</li>
-    <li>Screening (if time)</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
-    </ul>
+  <td valign="top" width="48%"><strong>TBD</strong>
   </td>
 </tr>
 
@@ -68,7 +58,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul>
-  <p><strong>Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">class exercise: Typefaces</a></strong></p></td>
+  <p><strong>Do <a href="../class_exercises/dm1123_class_exercise_typefaces.md" target="_blank">class exercise: Typefaces</a><br>Post on <a href="../projects/blog.md">your blog</a></strong></p></td>
 
 </tr>
 </table>
