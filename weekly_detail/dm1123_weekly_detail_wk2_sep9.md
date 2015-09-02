@@ -44,7 +44,7 @@
     <LI>TEXT
     <LI>GRID
     </UL>
-    <I>[TEXT WILL BE POSTED ON "READINGS" ON THE SLACK]</I></td>
+    <I>[TEXT WILL BE POSTED ON "READINGS" ON THE <a href="vfs15.slack.com">SLACK</a>]</I></td>
 </tr>
 
 <!-- do -->
