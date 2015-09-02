@@ -191,7 +191,9 @@ http://www.adobe.com/downloads.html
 
 ## PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course.
+
+Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
 
 See appendices for all of the following:
 * [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
@@ -199,11 +201,13 @@ See appendices for all of the following:
 * [Class Blog](projects/dm1123_vfs_blog.md)
 
 #### Projects
+######Submit as .PDF files through a Private Message on [Slack](vfs15.slack.com)
 * [Branding Project](projects/dm1123_vfs_projects_logo.md)
 * [Interface Project](projects/dm1123_vfs_projects_interface.md)
 * [Final Project (Analysis OR Physical/Digital Application) ](projects/dm1123_vfs_projects_pa.md)
 
 #### Assignments
+######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
 * [Process Work & Feedback](projects/dm1123_vfs_self_assessments.md)
 * [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
