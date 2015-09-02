@@ -84,7 +84,7 @@
 <tr>
   <td>read</td>
   <td></td>
-  <td><li><a href="../dm1123_vfs_syllabus.md"><strong>Course Syllabus</strong></a></li>
+  <td>
   <li>"Non-Designers Design Book" by Robin Williams [FIND UNDER "READINGS" IN <a href=https://vfs15.slack.com/messages/readings>SLACK</a>]</li></td> 
 </tr>
 <tr>
