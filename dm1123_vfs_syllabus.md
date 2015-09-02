@@ -209,4 +209,3 @@ See appendices for all of the following:
 
 
 ### [SCHEDULE OVERVIEW GRID](dm1123_schedule_overview.md)
-See Appendix
