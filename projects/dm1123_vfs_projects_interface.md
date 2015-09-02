@@ -10,13 +10,25 @@
 
 
 ## PROJECT: INTERFACE
-In information technology, the user interface (UI) is everything designed into an information device with which a person may interact. Determine what kind of interface you'd like to create. This can be the design of **a website, an application, a game** etc.
+In information technology, the user interface (UI) is everything designed into an information device or material with which a person may interact. Determine what kind of interface you'd like to create. This can be the design of **a website, an application, a manual, a game** etc.
 
 Using a combination of Illustrator / Photoshop / Any other development tools, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
 An interface has varied applications:
+
+***
+**Non-Digital**
+* Menu
+* Brochure
+* Manual
+* Directory
+* Physical Portfolio
+* ETC.
+***
+**Digital**
 * Landing page
 * Navigation Menu
+* Title Page/Sequence
 * Portfolio Site
 * Online Storefront (ie. Etsy, Amazon, Steam, App Store)
 * Splash Screen
@@ -25,7 +37,7 @@ An interface has varied applications:
 * Settings Menu
 * ETC.
 
-Choose an element of your interface that will best showcase the brand you wish to create or have created. (IE. If your brand is personal, a portfolio website mock-up would be appropriate. If your brand is a video game, a splash screen or a screenshot mock-up)
+Choose an element of your interface that will best showcase the brand you wish to create or have created. (IE. If your brand is personal, a portfolio mock-up would be appropriate. If your brand is a video game, a splash screen or a screenshot mock-up)
 
 #### INTERFACE Wireframes    
 Post on your blog in grayscale with interface-wireframes category. 
