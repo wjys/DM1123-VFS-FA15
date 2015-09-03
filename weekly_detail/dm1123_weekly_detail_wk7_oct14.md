@@ -25,7 +25,10 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>NO Class: NYU Fall Recess</strong></td>
+  <td valign="top" width="48%"><strong>Good Looking vs. Good Using</strong>
+  <li>Aesthetics & Usability
+  <li>Public Eye
+  <li><i><strong>McLuhans Wake, by Kevin McMahon (2002)</strong></td>
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A)</a>
   <ul>
   <li>Discuss <a href="../dm1123_schedule_overview.md">schedule overview</a> changes</li>
