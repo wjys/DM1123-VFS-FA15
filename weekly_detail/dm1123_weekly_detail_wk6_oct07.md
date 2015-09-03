@@ -32,14 +32,17 @@
 
   </td>
   <td valign="top" width="48%"><strong>Semiotics</strong><br>
-  <li>Semiotics for Beginners</strong></td>
+  <li>Signs, Signifiers, Index</strong>
+  <li>Symbols and Meaning-making</td>
 </tr>
 
 <!-- read -->
 <tr>
   <td valign="top">read</td>
   <td valign="top"><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></td>
-  <td valign="top"><li><strong>￼Semiotics: the theory behind media literacy</strong></td>
+  <td valign="top"><li><strong>￼Semiotics: the theory behind media literacy</strong>
+  <li>Messages, Signs, and Meanings: A Basic Textbook in Semiotics and Communication Theory,
+ Marcel Danesi</td>
 </tr>
 
 <!-- do -->
