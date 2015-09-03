@@ -31,14 +31,15 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>No Class (Dec. 11 is make up date)</strong></td>
+  <td valign="top" width="48%"><strong>Semiotics</strong><br>
+  <li>Semiotics for Beginners</strong></td>
 </tr>
 
 <!-- read -->
 <tr>
   <td valign="top">read</td>
   <td valign="top"><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></td>
-  <td valign="top"></td>
+  <td valign="top">￼Semiotics: the theory behind media literacy</td>
 </tr>
 
 <!-- do -->
