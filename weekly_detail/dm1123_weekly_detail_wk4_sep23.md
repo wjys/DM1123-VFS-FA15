@@ -29,30 +29,13 @@
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
   <li>Discuss homework for next class</li>
-  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Stefan Sagmeister: Teresa and Larysa</li>
-      <li>Paula Scher: Daric and Alexis</li>
-    </ul>
-  
-   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
-  </ul>
 
   </td>
   <td valign="top" width="48%"><strong>SCREENING: Type</strong>
     <ul>
-    <li>Basecamp Reminders</li>
-      <ul>
-      <li>Don't forget to use your name as a category</li>
-      <li>Don't forget to include http:// with any link you post in a message</li>
-      </ul>
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Tibor Kalman: Michael and Aaron</li>
-      <li>Josef Müller-Brockmann: Collin and Indira</li>
     </ul>
-    <li>Respond to selected tickets to leave</li>
+    <li>Respond to Reading Response</li>
     <ul>
     <li>How Do You Create Your Own Typefaces? 
       <ul>
@@ -109,15 +92,14 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (pdf posted on basecamp underneath files tab)</p>
+  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for </p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
-  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong></p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
