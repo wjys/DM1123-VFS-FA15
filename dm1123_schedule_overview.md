@@ -13,6 +13,12 @@
 *All dates and assignments are subject to change at the discretion of the professor! Github and Slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
 *Github / Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack and in person during class.***
+
+####NYU ACADEMIC CALENDARS:####
+* NYU Academic Calendar https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1148
+* NYU Registration Calendar https://www.nyu.edu/registrar/calendars/registration-calendar.html#1148
+<BR>
+****
 <table>
     <tr>
         <th width="4%">wk</th>
@@ -75,7 +81,7 @@
     </tr>
     <tr>
         <td>11</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 09<br><strong>////////</strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 09<br><strong>UX & Human Factor</strong></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 13<br><strong>INTERFACE Wireframes 1st Draft</a></strong></strong></td>
     </tr>
     <tr>
@@ -95,7 +101,7 @@
     </tr>
     <tr>
         <td>15</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 07<br><strong><i>SoE UG Reading Day</i></strong></A></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 07<br><strong><i>Make Up Class for Sep. 11</i></strong></A></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 11<br><strong><i>Make Up Class for Oct. 9</i><br>PDF or BOOK 2nd DRAFT</a></strong></td>
     </tr>
     <tr>
