@@ -56,17 +56,14 @@ By the end of the course, students will be able to
 
 ### COURSE STRUCTURE
 
-Class will be comprised of lectures, class exercises, screenings, show & tells, demos, and studio critiques. We will also have a guest speaker (Date to be determined, depending on their schedule). 
+Class will be comprised of lectures, class exercises, screenings, show & tells, demos, and studio critiques.
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged
-* Give Feedback to your classmates
-* Do NOT take Feedback personally
-
-Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
-
+* Give respectful feedback to your classmates
+* Do not take feedback personally
 
 ### STUDENT RESPONSIBILITIES
 
@@ -110,11 +107,11 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 10% final interface 
 * 10% final project
 * 10% end of semester portfolio PDF
-* 10% IDM coursework documentation on sites.bxmc.poly.edu
+* 10% attendance and participation
 * 10% reading responses
 * 2.5% logo show and tell
-* 2.5% creator show and tell
-* 5% attendance and participation
+* 2.5% designer show and tell
+* 5% blog & IDM coursework documentation on sites.bxmc.poly.edu
 
 
 ##### Qualitative Grading Overview
@@ -134,7 +131,10 @@ Performance and attendance of the student has been adequate, satisfactorily meet
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of visual foundation. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
 ###### F. Unacceptable (59 & Below)
-Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest. 
+Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
+
+####Mid-term Standing
+Students in danger of failing will be given a written warning prior to the final deadline for withdrawal from the course without academic penalty.
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
@@ -154,10 +154,10 @@ All work for this class must be your own and specific to this semester. Any work
 
 ### ACADEMIC ACCOMMODATIONS
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability/health consideration that may require accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or [mosescsd@nyu.edu](mailto:mosescsd@nyu.edu).  You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [www.nyu.edu/csd](www.nyu.edu/csd). The Moses Center is located at 726 Broadway on the 2nd floor.
 
 
-### ADDITIONAL INFO REGARDING PRINTING
+### PRINTING
 
 Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Librarysee the Library staff for further assistance.
 
@@ -193,7 +193,7 @@ http://www.adobe.com/downloads.html
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course.
 
-Please name ALL files as firstnameinitiallastname_vfs_fa14_assignmentname (i.e. wsong_vfs_fa14_logo1.pdf)
+Please name ALL files as **firstnameinitiallastname_vfs_fa14_assignmentname** (i.e. *wsong_vfs_fa14_logo1.pdf*)
 
 See appendices for all of the following:
 * [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
