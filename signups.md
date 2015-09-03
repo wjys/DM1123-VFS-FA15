@@ -67,59 +67,69 @@ PRESENTING: ___________</td>
 2. ___________ & ___________<BR>
 PRESENTING: ___________</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09</a>: DESIGNER<br><BR>
-2. ___________ & ___________<BR>
-PRESENTING: ___________<br><strong><i></i></td>
+3. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
     </tr>
     <tr>
         <td>7</td>
-        <td><STRONG><u>TUESDAY</STRONG> Oct 13<br><strong><i>(Make-up date for MONDAY: NYU Fall Recess)</i></strong></td>
-        <td>Oct 16<br><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><strong>LOGO 2nd Draft (Groups A)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG><u>TUESDAY</STRONG> Oct 13</A>: DESIGNER<br><BR>
+4. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md">Oct 16<br></a>: DESIGNER<br><BR>
+5. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 19<br><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md"><strong>LOGO 2nd Draft (Groups B)</strong></a></td>
-        <td>Oct 23<br><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md"><strong>Screenings</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 19</a>: DESIGNER<br><BR>
+6. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 23</a>: DESIGNER<br><BR>
+7. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top">Oct 26<br><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md"><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</a></td>
-        <td valign="top">Oct 30<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">PHYSICAL APP 1st Draft (Groups A & B)</a></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 26</a>: DESIGNER<br><BR>
+8. ___________ & ___________<BR>
+PRESENTING: ___________<br></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 30</a>: DESIGNER<br><BR>
+9. ___________ & ___________<BR>
+PRESENTING: ___________<br></strong></td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 02<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md"><strong>PHYSICAL APP 2nd Draft (Group A)</strong></a></td>
-        <td>Nov 06<br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md"><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">Nov 02<br><strong>//</strong></a><br>
+        <i>(Tuesday, November 3 is the deadline to withdraw)</i></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">Nov 06<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 09<br><strong>Extra Credit: TCS Lecture by Jonathan Fetter<br>“How to Draw the Invisible"</strong><br>
-2:30pm-4:00pm, reception to follow<br>
-Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a href="http://damiencorrell.com/" target="_blank">Damien Correll</a><br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft</a></strong></td>
-        <td>Nov 13<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft</a></strong></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 09<strong>//</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 13<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 16<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">INTERFACE Wireframes 2nd Draft</a></strong></td>
-        <td>Nov 20<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">INTERFACE High-Fidelity Prototype 1st Draft</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">Nov 16<br><strong>//</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">Nov 20<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 23<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
-        <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md">Nov 23<br><strong>//</strong></a></td>
+        <td>Nov 27<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Nov 30<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">PHYSICAL APP FINAL</a></strong></td>
-        <td>Dec 04<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">PDF or BOOK 1st DRAFT</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">Nov 30<br><strong>//</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">Dec 04<br><strong>//</strong></a></td>
     </tr>
     <tr>
         <td>15</td>
-        <td>Dec 07<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br><strong><i>Make Up Class for Oct. 9</i><br><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">PDF or BOOK 2nd DRAFT</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 07<br><strong>//</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 11<br><strong>//</strong></a></strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td colspan="2">Dec 14<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
-<strong><a href="projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</a></strong></td>
+        <td colspan="2"><a href="projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">Dec 14<br><strong>//</strong></a></td>
     </tr>
 </table>
