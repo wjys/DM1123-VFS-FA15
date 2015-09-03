@@ -28,7 +28,6 @@
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a>
   <ul>
    <li>Discuss next class homework</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
   </td>
