@@ -102,7 +102,7 @@
     <tr>
         <td>15</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 07<br><strong><i>Make Up Class for Sep. 11</i><br>POST-PRODUCTION</strong></A></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 11<br><strong><i>Make Up Class for Oct. 9</i><br>PDF or BOOK 2nd DRAFT</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk15_dec9.md">Dec 11<br><strong><br>PDF or BOOK 2nd DRAFT</a></strong></td>
     </tr>
     <tr>
         <td>16</td>
