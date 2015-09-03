@@ -56,7 +56,8 @@ Sign up here: [GOOGLE SPREADSHEET](https://docs.google.com/spreadsheets/d/1wwYKW
 5. ___________ & ___________<BR>
 6. ___________ & ___________<BR>
 7. ___________ & ___________<BR>
-8. ___________ & ___________<BR></td>
+8. ___________ & ___________<BR>
+</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Oct 02</a>: DESIGNER<br><BR>
 1. ___________ & ___________<BR>
 PRESENTING: ___________</td>
