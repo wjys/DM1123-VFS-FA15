@@ -27,7 +27,10 @@
   <td valign="top" width="4%">class</td>
    <td valign="top" width="48%"><strong>Human Factor: </strong><br>
    <li>Interface & Human Interaction
-   <li>UI<br>
+   <li>UI<br><br>
+   <strong>Wireframe:</strong>
+   <li>User Narrative</li>
+   <li> Direction</li>
    </td>
   <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group A &amp; B)</a>
   <ul>
@@ -41,8 +44,9 @@
   <td valign="top"><strong>Type on Screen</strong>
   <ul>
   <li>04: Type &amp; Interface</li>
-  </ul><strong><a href="http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf">UXPin's Guide to Wireframing</a></strong></td>
-  <td valign="top"></td>
+  </ul><strong><a href="http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf">UXPin's Guide to Wireframing</a></strong><br>
+  </td>
+  <td valign="top"><strong>HUMAN–COMPUTER INTERACTION</strong>, Kendall</td>
 </tr>
 
 <!-- do -->
