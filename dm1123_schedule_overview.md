@@ -44,11 +44,11 @@
     <tr>
         <td>5</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Sep 28<br><strong>LOGO Show & Tells</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Oct 02<br><strong>LOGO 1st Draft (Group A)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Oct 02<br><strong>BRAND 1st Draft (Group A)</strong></a></td>
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 05<br><strong>LOGO 1st Draft (Group B)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 05<br><strong>BRAND 1st Draft (Group B)</strong></a></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09<br><strong>//////<strong></td>
     </tr>
     <tr>
