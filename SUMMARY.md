@@ -2,6 +2,12 @@
 
 * [Introduction](README.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
+    * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+    * Assignments
+    * Projects
+        * PROJECT: [BRAND](projects/dm1123_vfs_projects_logo.md)
+        * PROJECT: [INTERFACE](projects/dm1123_vfs_projects_interface.md)
+        * PROJECT: FINAL - [ANALYSIS](projects/dm1123_vfs_projects_analysis.md) or [APPLICATION](projects/dm1123_vfs_projects_interface.md)
     * [Sign-Up](signups.md)
     * [Groups](projects/dm1123_vfs_groups.md)
 * [Schedule](dm1123_schedule_overview.md)
