@@ -13,11 +13,25 @@
 
 **Group A**
 
-* 
+* Jude Arthur
+* Brenner Cheu-Chen
+* Braden Gammon
+* Junege Hong
+* Sandra Honigman
+* Aaron Keeth
+* Fay Koh
+* Marisa Lawrence
 
 
 **Group B**
 
-* 
+* Eric Leung
+* Adam Liang
+* Rafael Mota
+* Michael Perez
+* Bria Smith
+* Calvin So
+* Lea Talbot
+* William Zhou
 
 
