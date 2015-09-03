@@ -42,23 +42,29 @@ The following IDM program goals are reinforced within this course. Students will
 This course will reinforce or introduce students to:
 * Introduction to the 3 Cs of visual language: components, composition & concept
 * Increased visual awareness and vocabulary through research and observation
+* Language with which to engage in discourse on visual culture and the design practice
 * Increased competency in visually communicating ideas and meaning through practice and iteration
+* Portfolio pieces or self-branding products that will go on to represent the student's abilities and goals after the course
 * An introduction to Adobe Illustrator, Adobe InDesign, and Adobe Photoshop
 
 
 ### LEARNING OUTCOMES
 
 By the end of the course, students will be able to
+
+* Employ a design vocabulary of elements, principles and actions in order to effectively present and reflect upon their work;
+* Generate systems of visual form and language to communicate given content;
+* Integrate practice-based research, critical reasoning and creative thought into coherent concepts;
+* Compile and re-present relevant precedent material to illustrate the context of practice.
 * understand and implement the iterative process
 * learn how to proactively learn also known as self-regulated learning
-   * In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
 
 
 ### COURSE STRUCTURE
 
 Class will be comprised of lectures, class exercises, screenings, show & tells, demos, and studio critiques.
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
 * Be Present and Engaged
@@ -70,10 +76,9 @@ Rules of the Critique:
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
-* Consult slack at least once a week for up to date info
+* Consult Slack at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
-* Strive for continuous improvement
 * Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not wait until it's too late.
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline
@@ -81,10 +86,12 @@ Rules of the Critique:
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
 
+###RELIGIOUS OBLIGATION
+A student who foresees a conflict between a religious obligation and any scheduled class assignments, including final exams or critiques, must notify the instructor in writing and, in the case of final exams or critiques, must make a written request to the appropriate Faculty Office within three weeks of the first class.
 
 ### CODE OF CONDUCT
 
-* Discrimination of any kind towards another person or group will be met with immediate dismission from the class.
+Discrimination of any kind towards another person or group will be met with immediate dismission from the class.
 
 
 ### EVALUATION & GRADING
