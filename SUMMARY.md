@@ -19,9 +19,10 @@
         * [Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
         * [End-of-Semester Deliverables](projects/dm1123_vfs_end_of_semester_deliverables.md)
     * Projects
-        * PROJECT: [BRAND](projects/dm1123_vfs_projects_logo.md)
-        * PROJECT: [INTERFACE](projects/dm1123_vfs_projects_interface.md)
-        * PROJECT: FINAL - [ANALYSIS](projects/dm1123_vfs_projects_analysis.md) or [APPLICATION](projects/dm1123_vfs_projects_interface.md)
+        * [PROJECT: BRAND](projects/dm1123_vfs_projects_logo.md)
+        * [PROJECT: INTERFACE](projects/dm1123_vfs_projects_interface.md)
+        * [PROJECT: FINAL (A) - ANALYSIS](projects/dm1123_vfs_projects_analysis.md)
+        * [PROJECT: FINAL (B) - APPLICATION](projects/dm1123_vfs_projects_interface.md)
         *  [Groups](projects/dm1123_vfs_groups.md)
 * [Schedule](dm1123_schedule_overview.md)
     *  [Week 1](weekly_detail/dm1123_weekly_detail_wk1_sep4.md)
