@@ -105,7 +105,7 @@ PRESENTING: ___________<br></strong></td>
     </tr>
     <tr>
         <td>11</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 09<strong>//</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 09<br><strong>//</strong></a></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">Nov 13<br><strong>//</strong></a></td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@ PRESENTING: ___________<br></strong></td>
     <tr>
         <td>13</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md">Nov 23<br><strong>//</strong></a></td>
-        <td>Nov 27<br><strong>//</strong></a></td>
+        <td>Nov 27</a><br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
