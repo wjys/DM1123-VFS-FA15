@@ -30,7 +30,7 @@
    <li>Discuss midterm critique: final logo project</li>
    <li>Illustrator Review: Pen Tool</li>
   </ul></td>
-  <td valign="top" width="48%"><strong>Screening: AIGA's Command X, Season 2</strong></a></td>
+  <td valign="top" width="48%"><strong>Screening: TBD</strong></a></td>
  
 </tr>
 
@@ -44,7 +44,6 @@
  <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
-  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
