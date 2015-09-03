@@ -55,7 +55,7 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"></td>
+  <td valign="top"><strong>TBD</strong></td>
   <td valign="top">
   <strong>Graphic Design: The New Basics</strong>
   <ul>
