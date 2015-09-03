@@ -27,11 +27,11 @@
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tells</a></strong>
   <ul>
-   <li>Discuss next class homework</li>
+   <li>Discuss First Project: <a href="../projects/dm1123_vfs_projects_logo.md">BRAND</a></li>
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
     <ul>
     <li>Discuss next class homework</li>
     <li>Logo Presentations Recap</li>
@@ -82,7 +82,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong></li>
+  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft</a></strong></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
