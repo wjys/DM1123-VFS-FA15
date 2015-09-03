@@ -25,10 +25,9 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups B)</a>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups B)</a>
      <ul>
    <li>Discuss midterm critique: final logo project</li>
-   <li>Illustrator Review: Pen Tool</li>
   </ul></td>
   <td valign="top" width="48%"><strong>Screening: TBD</strong></a></td>
  
@@ -40,7 +39,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups B)</a></li>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups B)</a></li>
  <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
@@ -50,7 +49,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO Final Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND Final Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
    <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
