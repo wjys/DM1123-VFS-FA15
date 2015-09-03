@@ -70,7 +70,7 @@
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 26<br><strong>MIDTERM: BRAND FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 26<br><strong>MIDTERM: BRAND FINAL (Groups A & B)</strong></td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 30<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</a></strong></td>
     </tr>
     <tr>
