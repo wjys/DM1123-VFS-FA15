@@ -92,7 +92,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for </p>
+  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for <strong>Graphic Design: The New Basics</strong></p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
