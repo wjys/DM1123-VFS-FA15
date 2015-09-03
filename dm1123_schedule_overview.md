@@ -49,22 +49,22 @@
     <tr>
         <td>6</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 05<br><strong>BRAND 1st Draft (Group B)</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09<br><strong>//////<strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09<br><strong>Semiotics<strong></td>
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG><u>TUESDAY</STRONG> Oct 13<br></A><strong><i>(Make-up date for MONDAY: NYU Fall Recess)</i></strong><BR>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG><u>TUESDAY</STRONG> Oct 13<br></A><strong><i>(MONDAY: NYU Fall Recess, Make-up date)</i></strong><BR>
         <a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG>/////////</A></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md">Oct 16<br><strong>LOGO 2nd Draft (Groups A)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md">Oct 16<br><strong>BRAND 2nd Draft (Groups A)</strong></a></td>
     </tr>
     <tr>
         <td>8</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 19<br><strong>LOGO 2nd Draft (Groups B)</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 19<br><strong>BRAND 2nd Draft (Groups B)</strong></a></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 23<br><strong>Screenings</strong></a></td>
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 26<br><strong>MIDTERM: LOGO FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 26<br><strong>MIDTERM: BRAND FINAL (Groups A & B)</strong><br>Logo Rubric<br>Logo Self Reflection</a></td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">Oct 30<br><strong>PHYSICAL APP 1st Draft (Groups A & B)</a></strong></td>
     </tr>
     <tr>
