@@ -34,7 +34,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Final: High-Fidelity Prototype</a></strong>
-   <ul><li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
+   <ul>
     <ul>
     <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
     <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
