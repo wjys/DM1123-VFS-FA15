@@ -71,8 +71,6 @@
   <ul>
  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND FINAL DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
  <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
- <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">BRAND Rubric</a></li>
-  <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">BRAND Self Reflection</a></li>
 </ul>
 
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
