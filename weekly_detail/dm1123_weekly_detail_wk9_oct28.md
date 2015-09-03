@@ -25,15 +25,11 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">MIDTERM: LOGO FINAL DUE </a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">MIDTERM: BRAND FINAL DUE </a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a>
      <ul>
      <li>Attendance is Mandatory</li>
      <li>Review rules of the <a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/dm1123_vfs_syllabus.md">Class Critique</a></li>
-      <ul><li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a> (on basecamp under files)</li>
-    <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a> (on basecamp under files)</li>
-    </ul>
     <li>Discuss next class homework</li>
-    <li>Why did we screen AIGA's Command X, Season 2? The same reason you should watch Project Runway.</li>
     <li>Make sure you put your name in any file you send someone else</li>
     <li>Saving Files as PDFs (from any print dialog box)</li>
     <li><a target="_blank" href="http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?s=books&ie=UTF8&qid=1414525229&sr=1-1&keywords=mac+is+not+a+typewriter">The Mac is Not a Typewriter</a> by Robin Williams</li>
@@ -52,8 +48,7 @@
       <li>Chip Kidd: Alice and Tasmiur</li>
       <li>Art Chantry: Larysa and Shira</li>
       </ul>
-    <li>Discuss next class homework</li>
-  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li></td>
+    <li>Discuss next class homework</li></td>
  </ul>
 </tr>
 
@@ -74,15 +69,14 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO FINAL DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND FINAL DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
  <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
- <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a></li>
-  <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a></li>
+ <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">BRAND Rubric</a></li>
+  <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">BRAND Self Reflection</a></li>
 </ul>
 
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
-  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
