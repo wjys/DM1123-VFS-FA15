@@ -13,10 +13,10 @@
 *The sign up for Show & Tells will be determined on a first come, first served basis*
 
 **LOGO - Show & Tell**<br>
-Sign up here: GOOGLE FORM
+Sign up here: [GOOGLE FORM](https://docs.google.com/forms/d/158z0_shftDJktkjBAgfSycYinFof3KzxcryMgGiMKlc/viewform?usp=send_form)
 <br><Br>
 **DESIGNER - Show & Tell**<br>
-Sign up here: GOOGLE FORM
+Sign up here: [GOOGLE SPREADSHEET](https://docs.google.com/spreadsheets/d/1wwYKWYqJaJ22Wshi7JRdKnPVJdc1LWn5495yY8T7rjo/edit?usp=sharing)
 ***
 ####SHOW & TELL SCHEDULE:
 
@@ -48,7 +48,7 @@ Sign up here: GOOGLE FORM
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md">Sep 25<br><strong>//</strong></a></tr>
     <tr>
         <td>5</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>Sep 28</strong></a>: LOGO<BR>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Sep 28</a>: LOGO<BR>
 1. ___________ & ___________<BR>
 2. ___________ & ___________<BR>
 3. ___________ & ___________<BR>
@@ -66,7 +66,9 @@ PRESENTING: ___________</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 05</a>: DESIGNER<br><BR>
 2. ___________ & ___________<BR>
 PRESENTING: ___________</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09</a><br><strong><i></i></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">Oct 09</a>: DESIGNER<br><BR>
+2. ___________ & ___________<BR>
+PRESENTING: ___________<br><strong><i></i></td>
     </tr>
     <tr>
         <td>7</td>
