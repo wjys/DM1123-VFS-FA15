@@ -12,7 +12,7 @@
 
 *All dates and assignments are subject to change at the discretion of the professor! Github and Slack are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
-*Github / Slack are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack and in person during class.***
+*Github / [Slack](vfs15.slack.com) are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack and in person during class.***
 
 ####NYU ACADEMIC CALENDARS:####
 * NYU Academic Calendar https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1148
