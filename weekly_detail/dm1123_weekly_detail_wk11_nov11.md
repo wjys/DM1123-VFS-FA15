@@ -27,7 +27,7 @@
   <td valign="top" width="4%">class</td>
    <td valign="top" width="48%"><strong>Human Factor: </strong><br>
    <li>Interface & Human Interaction
-   <li>UI<br><br>
+   <li>UI & UX<br><br>
    <strong>Wireframe:</strong>
    <li>User Narrative</li>
    <li> Direction</li>
@@ -46,7 +46,7 @@
   <li>04: Type &amp; Interface</li>
   </ul><strong><a href="http://uxpin.e24files.com/uxpin_the_guide_to_wireframing.pdf">UXPin's Guide to Wireframing</a></strong><br>
   </td>
-  <td valign="top"><strong>HUMAN–COMPUTER INTERACTION</strong>, Kendall</td>
+  <td valign="top"><strong><li>HUMAN–COMPUTER INTERACTION</strong>, Kendall</td>
 </tr>
 
 <!-- do -->
