@@ -8,7 +8,7 @@
 
 ---
 
-## SIGN-UPS
+## SHOW & TELL - SIGN-UP
 
 *The sign up for Show & Tells will be determined on a first come, first served basis*
 
