@@ -60,13 +60,13 @@
     <tr>
         <td>7</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG><u>TUESDAY</STRONG> Oct 13<br></A><strong><i>(MONDAY: NYU Fall Recess, Make-up date)</i></strong><BR>
-        <a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG>/////////</A></td>
+        <a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><STRONG>Good-Looking vs. Good-Using</A></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md">Oct 16<br><strong>BRAND 2nd Draft (Groups A)</strong></a></td>
     </tr>
     <tr>
         <td>8</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 19<br><strong>BRAND 2nd Draft (Groups B)</strong></a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 23<br><strong>Screenings</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md">Oct 23<br><strong>Screening TBD </strong></a></td>
     </tr>
     <tr>
         <td>9</td>
@@ -86,7 +86,7 @@
     </tr>
     <tr>
         <td>12</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">Nov 16<br><strong>INTERFACE Wireframes 2nd Draft</a></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">Nov 16<br><strong>Quantitaive & Qualitative Information<br>INTERFACE Wireframes 2nd Draft</a></strong></td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">Nov 20<br><strong>INTERFACE High-Fidelity Prototype 1st Draft</a></strong></td>
     </tr>
     <tr>
@@ -106,7 +106,7 @@
     </tr>
     <tr>
         <td>16</td>
-        <td colspan="2"><a href="projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">Dec 14<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
-<strong>PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</a></strong></td>
+        <td colspan="2"><a href="projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">Dec 14<br><strong>INDIVIDUAL INTERVIEWS (To Be Scheduled)<br> 
+<strong>PDF or Book, Dropbox Link, Final Assessment</a></strong></td>
     </tr>
 </table>
