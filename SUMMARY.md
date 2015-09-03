@@ -40,4 +40,3 @@
     * [PROJECT: FINAL (A) - ANALYSIS](projects/dm1123_vfs_projects_analysis.md)
     * [PROJECT: FINAL (B) - APPLICATION](projects/dm1123_vfs_projects_interface.md)
     *  [Groups](projects/dm1123_vfs_groups.md)
-    * 
