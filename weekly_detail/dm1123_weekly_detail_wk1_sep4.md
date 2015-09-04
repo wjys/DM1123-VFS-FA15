@@ -48,6 +48,7 @@
      <uL><li><strong>#general</strong> - Class-wide announcements and conversation</li>
      <li><strong>#gallery</strong> - A place to share your work and give feedback</li>
      <li><strong>#library</strong> - A place to share resources and references and discuss <i>ie. Designs, Designers, Apps, Books, Videos, Production Programs, Tutorials, Fonts etc.</i></li>
+     <li><strong>#readings</strong> - Will be updated with weekly readings
      <li><strong>#random</strong> - Whatever else</li>
      </uL>
      <li><strong>Private Message</strong> Winnie links to assignments or upload them directly</li>
