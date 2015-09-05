@@ -211,7 +211,7 @@ See appendices for all of the following:
 ######Submit as .PDF files through a Private Message on [Slack](vfs15.slack.com)
 * [Branding Project](projects/dm1123_vfs_projects_logo.md)
 * [Interface Project](projects/dm1123_vfs_projects_interface.md)
-* [Final Project (Analysis OR Physical/Digital Application) ](projects/dm1123_vfs_projects_pa.md)
+* Final Project ([Analysis](projects/dm1123_vfs_projects_analysis.md) OR [Physical/Digital Application](projects/dm1123_vfs_projects_pa.md))
 
 #### Assignments
 ######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
