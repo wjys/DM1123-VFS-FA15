@@ -99,7 +99,7 @@
   <li>Set up a Blog</li>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
   <li>DO <a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a></li>
-  <li> POST a <a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a> for "Non-Designers Design Book"
+  <li> POST a <a href="..projects/dm1123_vfs_reading_responses.md">Reading Response</a> for "Non-Designers Design Book"
   </td>
 </tr>
 </table>
