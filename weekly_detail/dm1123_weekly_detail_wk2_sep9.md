@@ -52,7 +52,7 @@
   <td valign="top">do</td>
   <td valign="top"></td>
   <td valign="top"><strong>
-  <strong><a href="/signups.html">SIGN UP FOR SHOW & TELL</a></strong>
+  <strong><a href="/signups.md">SIGN UP FOR SHOW & TELL</a></strong>
   <br><Br>
   Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
