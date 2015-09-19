@@ -32,7 +32,7 @@
     <ul>
     <li><i>LECTURE: COLOR & TYPE</i>
     <li>Respond to selected Reading Responses</li>
-    <li><a href="/signups.md">SIGN-UP for Show & Tell</a></li>
+    <li><a href="../signups.md">SIGN-UP for Show & Tell</a></li>
     <li>Class Exercise: Review Color, Type</li>
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Photoshop (if time)</li>
