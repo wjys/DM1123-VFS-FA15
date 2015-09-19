@@ -62,7 +62,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <strong><a href="/signups.md">SIGN UP FOR SHOW & TELL</a></strong><br><br>
+  <strong><a href="../signups.md">SIGN UP FOR SHOW & TELL</a></strong><br><br>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
