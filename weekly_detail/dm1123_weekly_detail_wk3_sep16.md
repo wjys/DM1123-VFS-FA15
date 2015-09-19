@@ -32,7 +32,7 @@
     <ul>
     <li><i>LECTURE: COLOR & TYPE</i>
     <li>Respond to selected Reading Responses</li>
-    <li><a href="../signups.md">SIGN-UP for Show & Tell</a></li>
+    <li><a href="../projects/dm1123_vfs_show_and_tells.md">SIGN-UP for Show & Tell</a></li>
     <li>Class Exercise: Review Color, Type</li>
     <li>Demo Illustrator continued (if time)</li>
     <li>Demo Photoshop (if time)</li>
@@ -62,7 +62,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <strong><a href="../signups.md">SIGN UP FOR SHOW & TELL</a></strong><br><br>
+  <strong><a href="../projects/dm1123_vfs_show_and_tells.md">SIGN UP FOR SHOW & TELL</a></strong><br><br>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
