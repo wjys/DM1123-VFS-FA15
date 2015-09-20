@@ -31,14 +31,11 @@
   <li>Discuss homework for next class</li>
 
   </td>
-  <td valign="top" width="48%"><strong>SCREENING: Type</strong>
+  <td valign="top" width="48%">
     <ul>
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
-    </ul>
-    <li>Respond to Reading Response</li>
-    <ul>
     <li>How Do You Create Your Own Typefaces? 
-      <ul>
+      
       <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong></li>
       <li><a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a></li>
         <ul>
@@ -80,11 +77,6 @@
   <li>Layers</li>
   <li>Grid</li>
   <li>Diagram</li>
-  </ul>
-  <strong>Type On Screen</strong>
-  <ul>
-  <li>02: Text On Screen</li>
-  </ul>
 </td>
 </tr>
 
