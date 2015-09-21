@@ -49,12 +49,12 @@ Sign up here: [GOOGLE SPREADSHEET](https://docs.google.com/spreadsheets/d/1wwYKW
     <tr>
         <td>5</td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Sep 28</a>: LOGO<BR>
-1. ___________ & ___________<BR>
-2. ___________ & ___________<BR>
-3. ___________ & ___________<BR>
-4. ___________ & ___________<BR>
-5. ___________ & ___________<BR>
-6. ___________ & ___________<BR>
+1. Fay Koh & Michael Perez<BR>
+2. Bria Smith & Marisa Lawrence<BR>
+3. Braden Gammon & Sandra Honigman<BR>
+4. Jude Arthur & Ingo Fisch<BR>
+5. William Zhou & Aaron Keeth<BR>
+6. Adam Liang & Calvin So<BR>
 7. ___________ & ___________<BR>
 8. ___________ & ___________<BR>
 </td>
