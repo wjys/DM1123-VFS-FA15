@@ -28,7 +28,9 @@
   <td valign="top" width="48%"><strong>Components: Image</strong>
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
-  <li>Discuss homework for next class</li>
+  <li>Discuss homework for next class</li><li>Brands Introduction</li>
+  <li>Branding Exercises I, II</li>
+  <li>Work Period</li>
 
   </td>
   <td valign="top" width="48%">
@@ -37,11 +39,7 @@
     <li>How Do You Create Your Own Typefaces? 
       
       <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio<br>(Fontographer successor)</a></strong></li>
-      <li><a href="http://www.glyphsapp.com/" target="_blank">Glyphs</a></li>
-        <ul>
-        <li><a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a></li>
-        </ul>
-        <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
+      <li><a href=http://practicaltypography.com>Practical Typography</a></li>
     </ul>
     </ul>
     <li>Discuss homework for next week</li>
@@ -53,15 +51,7 @@
         <li><a href="http://thenounproject.com/" target="_blank">Icons / Symbols</a></li>
         <li>Logotypes</li>
         <li>Combination</li>
-        </ul></li>
-      <li><a href="https://polishedsolid.basecamphq.com/projects/12353075-visual-foundation-studio-fall-2014/files" target="_blank">Versions (different) vs. Variations (similar)</a> (vfs_logo_packet.pdf)</li>
-      <li><a href="http://www.creativereview.co.uk/images/uploads/2013/07/aol_wolff_olins_2009_0.jpg" target="_blank">Flexible Logotypes</a> (152-153 Type On Screen)</li>
-      <li><a href="http://www.creativeapplications.net/wp-content/uploads/2011/03/LogoMain2.jpg" target="_blank">Generative Logotypes</a> (154-155 Type On Screen)</li>
-      <li><a href="../dm1123_vfs_recommended_resources.md" target="_blank">Additional Resources</a> (Under Semiotics)</li>
       </ul>
-    
-    
-    <li>Screening: Helvetica Documentary</li>
     </ul>
   </td>
 </tr>
