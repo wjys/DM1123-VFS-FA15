@@ -55,7 +55,7 @@ Sign up here: [GOOGLE SPREADSHEET](https://docs.google.com/spreadsheets/d/1wwYKW
 4. Jude Arthur & Ingo Fisch<BR>
 5. William Zhou & Aaron Keeth<BR>
 6. Adam Liang & Calvin So<BR>
-7. ___________ & ___________<BR>
+7. Brenner Cheu-Chen & Lea Talbot<BR>
 8. ___________ & ___________<BR>
 </td>
         <td><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">Oct 02</a>: DESIGNER<br><BR>
