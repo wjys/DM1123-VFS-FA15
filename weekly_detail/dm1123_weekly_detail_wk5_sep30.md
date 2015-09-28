@@ -31,14 +31,11 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft ASSIGNED</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank"></a>
     <ul>
     <li>Discuss next class homework</li>
     <li>Logo Presentations Recap</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Saul Bass (for logos, not film titles): Boyong &amp; Hornby</li>
-      <li>Shepard Fairey: Hillary &amp; Kevin</li>
+    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> Group 1
     </ul>
     
     </ul>
@@ -48,10 +45,7 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"><strong>Type On Screen</strong>
-  <ul>
-  <li>05: Icons &amp; Logotypes</li>
-  </ul></td>
+  <td valign="top">Catch up on Readings & Assignments</td>
   <td valign="top">
   <strong>Graphic Design: The New Basics</strong>
   <ul>
@@ -69,8 +63,6 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
-  <li><strong><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a></strong></li>
-  <li>Do <strong><a href="../class_exercises/dm1123_class_exercise_brand.md" target="_blank">Class Exercise: Brand</a></strong> as homework instead.</p>
   </li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
