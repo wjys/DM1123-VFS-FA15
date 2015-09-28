@@ -33,7 +33,7 @@
   </td>
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft ASSIGNED</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank"></a>
     <ul>
-    <li>Discuss next class homework</li>
+    <li>Discuss Branding Identities & Audits</li>
     <li>Logo Presentations Recap</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> Group 1
     </ul>
