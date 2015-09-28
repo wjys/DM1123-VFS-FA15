@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft</a></strong>
   <ul>
    <li>Discuss next class homework</li>
   </ul>
@@ -50,7 +50,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a></li>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft</a></strong></li>
  <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
@@ -61,7 +61,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft</a></strong></li>
   <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
