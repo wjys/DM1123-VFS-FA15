@@ -50,7 +50,7 @@
   <strong>Graphic Design: The New Basics</strong>
   <ul>
   <li>Point, Line, Plane</li>
-  <li>Texture</li>
+  <li>Time</li>
   <li>Transparency</li>
   <li>Modularity</li>
   </ul>
