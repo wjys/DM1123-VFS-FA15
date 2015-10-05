@@ -27,13 +27,15 @@
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%">
   <strong>Designer Show & Tell</strong>
-  <li>Keith Haring - Batu, Calvin</li>
+  <li><b>Keith Haring</b> - Batu, Calvin</li>
   <li>Discuss Brand 1st Draft</li>
    <li>Discuss next class homework</li>
   
 
   </td>
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong>
+  <br><strong>Designer Show & Tell</strong>
+  <li><b>Jean-Michel Basquiat</b> - Adam, Braden</li>
   <br><strong>Semiotics</strong><br>
   <li>Signs, Signifiers, Index</strong>
   <li>Symbols and Meaning-making</td>
