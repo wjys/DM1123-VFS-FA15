@@ -25,13 +25,16 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong>
-  <ul>
+  <td valign="top" width="48%">
+  <strong>Designer Show & Tell</strong>
+  <li>Keith Haring - Batu, Calvin</li>
+  <li>Discuss Brand 1st Draft</li>
    <li>Discuss next class homework</li>
-  </ul>
+  
 
   </td>
-  <td valign="top" width="48%"><strong>Semiotics</strong><br>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft DUE</a></strong>
+  <br><strong>Semiotics</strong><br>
   <li>Signs, Signifiers, Index</strong>
   <li>Symbols and Meaning-making</td>
 </tr>
@@ -62,7 +65,6 @@
   <td valign="top">
   <ul>
    <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 2nd Draft</a></strong></li>
-  <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
