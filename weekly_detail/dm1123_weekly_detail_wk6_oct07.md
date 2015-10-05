@@ -42,7 +42,8 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"><a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></td>
+  <td valign="top"><strong>DESIGN INFORMATION</strong> - Joel Katz
+  <ul><li>Aspects of Information Design, <i>The nature of information</i></td>
   <td valign="top"><li><strong>￼Semiotics: the theory behind media literacy</strong>
   <li>Messages, Signs, and Meanings: A Basic Textbook in Semiotics and Communication Theory,
  Marcel Danesi</td>
@@ -54,7 +55,7 @@
   <td valign="top">
   <ul>
  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">BRAND 1st Draft</a></strong></li>
- <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
+ <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <strong>DESIGN INFORMATION</strong></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
