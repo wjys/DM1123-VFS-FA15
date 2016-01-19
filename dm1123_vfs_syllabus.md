@@ -4,9 +4,9 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Winnie Song • jys325@nyu.edu • Fall 2015 
-    Mondays & Fridays • 3:30-5:20PM • 2MTC MAGNET 830 • 3 credit hrs
+    Tuesdays & Thursdays • 10:30-12:20PM • 2MTC MAGNET 825 • 3 credit hrs
     Office hours by appointment or directly before class 
-    Office: MAGNET • Office Phone: 347 988 5185
+    Office: MAGNET • Phone: 347 988 5185
 
     Prerequisite: None
    
